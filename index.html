@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Osmos</title>
+  </head>
+
+  <body>
+    <canvas></canvas>
+
+    <!-- <script type="application/javascript" src="vendor/keymaster.js"></script> -->
+
+    <!-- <script type="application/javascript" src="lib/util.js"></script>
+    <script type="application/javascript" src="lib/movingObject.js"></script>
+    <script type="application/javascript" src="lib/asteroid.js"></script>
+    <script type="application/javascript" src="lib/ship.js"></script>
+    <script type="application/javascript" src="lib/bullet.js"></script>
+    <script type="application/javascript" src="lib/game.js"></script>
+    <script type="application/javascript" src="lib/gameView.js"></script> -->
+
+    <script type="application/javascript">
+      (function () {
+        var canvasEl = document.getElementsByTagName("canvas")[0];
+        canvasEl.width = Osmos.Game.DIM_X;
+        canvasEl.height = Osmos.Game.DIM_Y;
+        var ctx = canvasEl.getContext("2d");
+        var game = new Osmos.Game();
+        new Osmos.GameView(game, ctx).start();
+      })();
+    </script>
+  </body>
+</html>
