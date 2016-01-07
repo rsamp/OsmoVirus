@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Osmos</title>
+    <title>Cell Swallow</title>
     <link rel="stylesheet" href="assets/osmos.css" media="screen" title="no title" charset="utf-8">
   </head>
 
@@ -23,8 +23,9 @@
         canvasEl.width = Osmos.Game.DIM_X;
         canvasEl.height = Osmos.Game.DIM_Y;
         var ctx = canvasEl.getContext("2d");
-        var game = new Osmos.Game();
-        new Osmos.GameView(game, ctx).start();
+        // var game = new Osmos.Game();
+        var game;
+        new Osmos.GameView(game, ctx).welcome();
       })();
     </script>
   </body>
