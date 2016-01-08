@@ -13,5 +13,5 @@ Once the game begins, the player, Virus, and Silver Cells will be randomly place
 ###Strategy
 One strategy may be to swallow up the Silver Cells as fast as possible. Another might be to carefully lead the virus around the play area such that it doesn't run into any Silver Cells. Hint: the Player cell is able to wrap around the game board. See if you can use this to your advantage to defeat the Virus!
 
-[welcome]: ./docs/screenshots/welcome/png
+[welcome]: ./docs/screenshots/welcome.png
 [gameplay]: ./docs/screenshots/action.png
