@@ -4,7 +4,7 @@ Inspired by http://osmos-game.com/ and http://agar.io/, OsmoVirus pits you up ag
 ###Screenshots
 ####Welcome
 ![welcome]
-###Gameplay
+####Gameplay
 ![gameplay]
 
 ###Features
