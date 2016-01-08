@@ -13,5 +13,5 @@ One strategy may be to swallow up the Silver Cells as fast as possible. Another 
 ####Gameplay
 ![gameplay]
 
-[welcome]: ./docs/screenshots/welcome.png
-[gameplay]: ./docs/screenshots/action.png
+[welcome]: ./screenshots/welcome.png
+[gameplay]: ./screenshots/action.png
