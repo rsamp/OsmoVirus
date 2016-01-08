@@ -1,4 +1,4 @@
-##OsmoVirus
+##OsmoVirus - * [Live Link][link]
 Inspired by http://osmos-game.com/ and http://agar.io/, OsmoVirus pits you up against the Virus. Your goal is to swallow nearby Silver Cells in order to grow and become large enough to defeat the Virus before he does the same to you.
 
 ###Features
@@ -13,5 +13,6 @@ One strategy may be to swallow up the Silver Cells as fast as possible. Another 
 ####Gameplay
 ![gameplay]
 
+[link]: https://rsamp.github.io/
 [welcome]: ./screenshots/welcome.png
 [gameplay]: ./screenshots/action.png
