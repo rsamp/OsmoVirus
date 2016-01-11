@@ -13,6 +13,6 @@ One strategy may be to swallow up the Silver Cells as fast as possible. Another 
 ####Gameplay
 ![gameplay]
 
-[link]: https://rsamp.github.io/
+[link]: http://www.ryansamp.com/OsmoVirus/osmovirus.html
 [welcome]: ./screenshots/welcome.png
 [gameplay]: ./screenshots/action.png
